@@ -2,7 +2,7 @@
 <!--  -->
 <br>
 
-<p align="center">
+<p align="left">
 
 - **Languages**:
     
@@ -28,3 +28,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-skies&hide_progress=true)
 
 ![GAME HACKING](https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png)
+
