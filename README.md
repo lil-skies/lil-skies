@@ -26,6 +26,8 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br>
+
 <a href="https://github.com/lil-skies/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lil-skies" />
 </a>
