@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<br>
+<br><br>
 
 <p align="center">
   <h3 align="center">🛠️ Languages</h3>
@@ -18,12 +18,16 @@
   <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 </p>
 
+<br><br>
+
 <p align="center">
   <h3 align="center">☁️ Cloud Hosting</h3>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white">
 </p>
+
+<br><br>
 
 <p align="center">
   <h3 align="center">🔧 Tools & Software</h3>
@@ -35,12 +39,16 @@
   <img src="https://img.shields.io/badge/IDA%20Pro-%23000000.svg?style=for-the-badge&logo=hex-rays&logoColor=white">
 </p>
 
+<br><br>
+
 <p align="center">
   <h3 align="center">📊 Stats</h3>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-skies&hide_progress=true">
 </p>
+
+<br><br>
 
 <p align="center">
   <h3 align="center">🎯 Project Capture</h3>
