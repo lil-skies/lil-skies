@@ -42,15 +42,6 @@
 <br><br>
 
 <p align="center">
-  <h3 align="center">📊 Stats</h3>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-skies&hide_progress=true">
-</p>
-
-<br><br>
-
-<p align="center">
   <h3 align="center">🎯 Project Capture</h3>
 </p>
 <p align="center">
