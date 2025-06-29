@@ -36,7 +36,18 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/JetBrains%20IDEs-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
   <img src="https://img.shields.io/badge/IDA%20Pro-%23000000.svg?style=for-the-badge&logo=hex-rays&logoColor=white">
+</p>
+
+<br><br>
+
+<p align="center">
+  <h3 align="center">📊 Stats</h3>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-skies&hide_progress=true">
 </p>
 
 <br><br>
@@ -45,5 +56,5 @@
   <h3 align="center">🎯 Project Capture</h3>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png" width="-1">
+  <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png" width="250">
 </p>
