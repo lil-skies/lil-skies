@@ -56,5 +56,5 @@
   <h3 align="center">🎯 Project Capture</h3>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png" width="250">
+  <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png" width="-1">
 </p>
