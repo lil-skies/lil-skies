@@ -31,9 +31,9 @@
 - Used ImGui, C++ and WinSDK to create a useable UI for drawing and tracking objects in UE4 Engine-based applications
 - Professional experience with .NET framework
 
-# Misc
-<table><tr><td valign="top" width="25%">
-
+## Misc
+<table> <tr> <td valign="top" width="50%">
+ 
 ### Languages
 <a href="https://github.com/lil-skies">
 <div align="center">
@@ -42,7 +42,7 @@
 </a>
 
 ### Project Capture
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/lil-skies">
 <div align="center">
     <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png">
 </div>
