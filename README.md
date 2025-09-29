@@ -1,51 +1,51 @@
-<h1 align="center">
-  <b>Hi, I'm Ty B.</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+# Hi, I'm Ty B.
 
-<br><br>
+<pre>
+ ____________________________________                 ______________
+|------|------|     __   __   __     |     ___________     |           () |
+| 64X4 | 64X4 | || |  | |  | |  |    |    |           |    |           ___|
+|------|------| || |  | |  | |  |    |____|           |____|         || D |
+| 64X4 | 64X4 | || |__| |__| |__|                 ________________  ||| I |
+|------|------|  |  ________   ______   ______   | ADV476KN50     | ||| P |
+| 64X4 | 64X4 |    |TRIDENT | |______| |______|  | 1-54BV  8940   | ||| S |
+|------|------| || |TVGA    | |______| |______|  |________________| |||___|
+| 64X4 | 64X4 | || |8800CS  |          ________________                ___|
+|------|------| || |11380029|    LOW->|  /\ SUPER VGA  | _________    |   |
+| 64X4 | 64X4 |     --------    BIOS  | \/         (1) ||_________|   | 1 |
+|------|------| ||  ______  J  ______ |________________| _________    | 5 |
+| 64X4 | 64X4 | || |______| 2 |______| ________________ |_________|   |___|
+|------|------| ||  ________   ______ |  /\ SUPER VGA  |               ___|
+| 64X4 | 64X4 |    |________| |______|| \/         (2) |   _________  |   |
+|------|------| ()              HIGH->|________________|  |_________| | 9 |
+ | 64X4 | 64X4 |     ________   _________   _____________   _________  |   |
+ |______|______|__  |________| |_________| |_____________| |_________| |___|
+                 |               __    TVGA-1623D                    _ () |
+                 |LLLLLLLLLLLLLL|  |LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL| |___|
+                                                                          |
+                                                                          |
+</pre>
 
-<p align="center">
-  <h3 align="center">🛠️ Languages</h3>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-</p>
+## About Me:
+- Learned C++ as my first language, used primarily for exploring, analyzing and developing software exploits
+- Developed multiple POC projects showcasing Ring0 memory operations at a Ring3 level
+- Used ImGui, C++ and WinSDK to create a useable UI for drawing and tracking objects in UE4 Engine-based applications
+- Professional experience with .NET framework
 
-<br><br>
+# Misc
+<table><tr><td valign="top" width="25%">
 
-<p align="center">
-  <h3 align="center">☁️ Cloud Hosting</h3>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white">
-</p>
+### Languages
+<a href="https://github.com/lil-skies">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,c#,cpp,java,python,&perline=4" /> 
+</div>
+</a>
 
-<br><br>
-
-<p align="center">
-  <h3 align="center">🔧 Tools & Software</h3>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/JetBrains%20IDEs-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
-  <img src="https://img.shields.io/badge/IDA%20Pro-%23000000.svg?style=for-the-badge&logo=hex-rays&logoColor=white">
-</p>
-
-<br><br>
-
-<p align="center">
-  <h3 align="center">🎯 Project Capture</h3>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png" width="-1">
-</p>
+### Project Capture
+<a href="https://github.com/tayyabadev">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png">
+</div>
+</a>
+</td>
+</tr></table>
