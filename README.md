@@ -43,7 +43,12 @@
 </td><td valign="top" width="33%">
 
 ## Others
-<a href="https://github.com/lil-skies"> <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord&perline=4" /> </div> </a></td> <td valign="top" width="33%">
+<a href="https://github.com/lil-skies"> 
+<div align="center"> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord&perline=4" /> 
+</div> 
+</a>
+</td> <td valign="top" width="33%">
   
 ### Project Capture
 <a href="https://github.com/lil-skies">
