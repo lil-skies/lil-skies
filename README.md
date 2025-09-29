@@ -42,7 +42,7 @@
 </a>
 </td><td valign="top" width="33%">
 
-## Others
+### Others
 <a href="https://github.com/lil-skies"> 
 <div align="center"> 
        <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord&perline=5" /> 
@@ -56,4 +56,5 @@
     <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png" width="-1">
 </div>
 </a>
+
 </tr></table>
