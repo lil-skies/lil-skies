@@ -34,7 +34,7 @@
 ## Misc
 <table> <tr> <td valign="top" width="33%">
  
-### Languages
+<div align="center"> ### Languages </div>
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,&perline=4" /> 
 </div>
