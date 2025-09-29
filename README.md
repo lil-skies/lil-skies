@@ -34,16 +34,16 @@
 ## Misc
 <table> <tr> <td valign="top" width="33%">
  
-### Languages
+### Programming Languages
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="33%">
 
-### Others
+### Software / Frameworks
 <div align="center"> 
-       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,npm,vscode,discord,react,dotnet,mysql&perline=4" /> 
 </div> 
 </a>
 </td> <td valign="top" width="33%">
