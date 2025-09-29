@@ -32,7 +32,7 @@
 - Professional experience with .NET framework
 
 ## Misc
-<table> <tr> <td valign="top" width="100%">
+<table> <tr> <td valign="top" width="33%">
  
 ### Languages
 <a href="https://github.com/lil-skies">
