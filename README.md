@@ -35,7 +35,6 @@
 <table> <tr> <td valign="top" width="33%">
  
 ### Languages
-<a href="https://github.com/lil-skies">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,&perline=4" /> 
 </div>
@@ -43,7 +42,6 @@
 </td><td valign="top" width="33%">
 
 ### Others
-<a href="https://github.com/lil-skies"> 
 <div align="center"> 
        <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord&perline=4" /> 
 </div> 
@@ -51,7 +49,6 @@
 </td> <td valign="top" width="33%">
   
 ### Project Capture
-<a href="https://github.com/lil-skies">
 <div align="center">
     <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png" width="-1">
 </div>
