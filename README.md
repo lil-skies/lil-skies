@@ -45,7 +45,7 @@
 ## Others
 <a href="https://github.com/lil-skies"> 
 <div align="center"> 
-       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord&perline=5" /> 
 </div> 
 </a>
 </td> <td valign="top" width="33%">
