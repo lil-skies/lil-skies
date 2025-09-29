@@ -51,6 +51,6 @@
     <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png">
 </div>
 </a>
-</td><td valign="top" width="33%">
+<td valign="top" width="33%">
 </td>
 </tr></table>
