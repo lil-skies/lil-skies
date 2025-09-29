@@ -32,7 +32,7 @@
 - Professional experience with .NET framework
 
 ## Misc
-<table> <tr> <td valign="top" width="33%">
+<table> <tr> <td valign="top" width="%">
  
 ### Languages
 <a href="https://github.com/lil-skies">
@@ -48,7 +48,7 @@
 ### Project Capture
 <a href="https://github.com/lil-skies">
 <div align="center">
-    <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png">
+    <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png" width="-1">
 </div>
 </a>
 <td valign="top" width="33%">
