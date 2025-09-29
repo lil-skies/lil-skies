@@ -37,15 +37,17 @@
 ### Languages
 <a href="https://github.com/lil-skies">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,c#,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=c,cpp,java,python,&perline=4" /> 
 </div>
 </a>
-
+ </td><td valign="top" width="50%">
+  
 ### Project Capture
 <a href="https://github.com/lil-skies">
 <div align="center">
     <img src="https://raw.githubusercontent.com/lil-skies/lil-skies/main/header.png">
 </div>
 </a>
+</td><td valign="top" width="25%">
 </td>
 </tr></table>
