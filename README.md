@@ -1,9 +1,7 @@
 # Welcome
 
-<pre>
 Strong interesting in programming and devising scalable, persistent architecture. 
 Experience in the C language suite, .NET framework, and Python. Side projects include malware reversal and development.
-</pre>
 
 ## Misc
 <table> <tr> <td valign="top" width="33%">
