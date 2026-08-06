@@ -25,12 +25,6 @@
                                                                           |
 </pre>
 
-## About Me:
-- Learned C++ to aid in exploring, analyzing and developing software exploits 
-- Developed multiple POC projects showcasing Ring0 memory operations at a Ring3 level
-- Used ImGui, C++ and WinSDK to create a transparent UI overlay for drawing and tracking objects in UE4 Engine-based applications
-- Professional experience with .NET framework
-
 ## Misc
 <table> <tr> <td valign="top" width="33%">
  
